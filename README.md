@@ -1,2 +1,2 @@
-# StupidWebsite
-เว็บไซต์โง่ๆของฉัน
+# StupidProject
+โปรเจกต์โง่ๆของฉัน
